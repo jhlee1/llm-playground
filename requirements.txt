@@ -1,0 +1,13 @@
+fastapi
+pydantic-settings
+
+
+# ASGI server for running FastAPI applications
+uvicorn
+
+sqlalchemy # orm
+asyncpg # Postgres connector
+
+google-cloud-aiplatform
+pytest
+pyspark
