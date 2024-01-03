@@ -1,5 +1,9 @@
 # Byte-compiled / optimized / DLL files
+<<<<<<< HEAD
 **/__pycache__/
+=======
+**/__pycache__
+>>>>>>> 00edb10 (Initial commit)
 *.py[cod]
 *$py.class
 
